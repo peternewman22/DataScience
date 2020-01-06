@@ -1,3 +1,10 @@
+# Credentials files
+credentials.json
+creds.json
+auth.json
+authorisation.json
+authorization.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
