@@ -5,6 +5,10 @@ auth.json
 authorisation.json
 authorization.json
 
+#apple files
+Contacts
+PodcastData
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

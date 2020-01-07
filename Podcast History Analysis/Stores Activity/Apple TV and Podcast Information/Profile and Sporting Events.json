@@ -1,0 +1,18 @@
+{
+  "user_profile" : {
+    "stored_user_profile" : {
+      "userId" : "fa125a193d97434da873a7b13d2728b8021",
+      "lastModified" : 1576310528746,
+      "version" : 1,
+      "lastVisited" : 1576310528569
+    },
+    "interpreted_user_profile" : {
+      "user_id" : "fa125a193d97434da873a7b13d2728b8021",
+      "human_readable_last_modified_timestamp" : "Saturday 14 December 2019 08:02:08.746+0000",
+      "recentActivity" : { },
+      "version" : 1,
+      "isDisabled" : false,
+      "human_readable_last_visited_timestamp" : "Saturday 14 December 2019 08:02:08.569+0000"
+    }
+  }
+}
